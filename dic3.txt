@@ -1,4 +1,4 @@
-" sal2 ": " saleh ",
+"همو ": "هم ",
 " Mo3 ": " Mohammed ", 
 " bar4 ": " rayan "
 ,
